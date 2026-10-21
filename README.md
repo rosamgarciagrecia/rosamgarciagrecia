@@ -1,5 +1,5 @@
-# Bon dia! Rosamari al aparato.
----
+## Bon dia! Rosamari al aparato.
+
 Soy estudiante del Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma en FP Mislata (València).
 
 Ahora mismo estoy aprendiendo:
@@ -10,7 +10,7 @@ Ahora mismo estoy aprendiendo:
 
 Me interesan también la seguridad y las redes, SO, UI Design etc.
 
-# Y además...
----
+## Y antes de eso...
+
 Antes de meterme en software trabajé en Filosofía, Sociología y Traducción.
 [Tengo experiencia en investigación y en comunicación social](https://sites.google.com/view/rosamgarcia/inicio?pli=1&authuser=0).
